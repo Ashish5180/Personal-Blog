@@ -22,7 +22,7 @@ const education = [
     degree: '12th Science',
     school: 'Jhankar.Sr.Sec.School',
     period: '2022 - 2023',
-    description: 'Percentage: 91.2%',
+    description: 'Percentage: 74.2%',
     achievements: [
       'District Level Silver Medalist in Art and craft',
       'Basketball Player'
