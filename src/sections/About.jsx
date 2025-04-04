@@ -20,7 +20,7 @@ const About = () => {
   ];
 
   const stats = [
-    { icon: <Speed />, value: '1.5+', label: 'Years Experience', color: '#61DAFB' },
+    { icon: <Speed />, value: '8 Months(Freelancing)', label: ' Experience', color: '#61DAFB' },
     { icon: <Star />, value: '10+', label: 'Projects Completed', color: '#FF9900' },
     // { icon: <Group />, value: '20+', label: 'Happy Clients', color: '#68A063' },
     { icon: <CheckCircle />, value: '100%', label: 'Client Satisfaction', color: '#FF4081' },
